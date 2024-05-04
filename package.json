@@ -1,0 +1,11 @@
+{
+  "name": "cep",
+  "version": "1.0.0",
+  "main": "cep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Angelo Simoneto",
+  "license": "MIT",
+  "description": "cep","procura cep", "procuracep"
+}
